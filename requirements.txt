@@ -1,5 +1,5 @@
 numpy==1.16.2
-lxml==4.6.2
+lxml==4.6.3
 brotli==1.0.7
 cryptography==2.8
 Cython==0.29.15
